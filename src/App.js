@@ -13,7 +13,7 @@ export default function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/skin-signal'>
+        <Route path='/'>
           <CartProvider>
             <div className='app'>
               {/* header */}

@@ -24,7 +24,7 @@ export default function Header() {
       <div className='container collapse navbar-collapse' id='navbarColor01'>
         <ul className='container navbar-nav flex-row'>
           <div className='nav-item active'>
-            <a className='nav-link' href='/skin-signal'>
+            <a className='nav-link' href='/'>
               Home
             </a>
           </div>
