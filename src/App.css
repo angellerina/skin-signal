@@ -57,6 +57,10 @@ header a:hover {
   color: #fff;
 }
 
+.card-title {
+  color: #fff;
+}
+
 .card-footer {
   border: 0;
 }
@@ -257,4 +261,14 @@ header a:hover {
 .hovereffect:hover .overlay {
   opacity: 1;
   filter: alpha(opacity=100);
+}
+
+div small {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+small a {
+  padding-left: 4px;
 }
